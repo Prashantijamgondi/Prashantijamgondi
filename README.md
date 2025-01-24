@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prashantijamgondi
+- 👋 Hi, I’m @Prashantijamagondi
 - 👀 I’m interested in Coding with high intense
 - 🌱 I’m currently learning BE cse at bleda's clg in vijayapur and follow at CCBP 4.o technology in Nxtwave 
 - 💞️ I’m looking to collaborate on 
